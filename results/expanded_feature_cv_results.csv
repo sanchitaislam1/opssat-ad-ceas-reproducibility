@@ -1,0 +1,6 @@
+FeatureSet,CV_F1_Mean,CV_F1_SD
+Official-18,0.8887,0.0283
+Robust+18,0.8847,0.0321
+Temporal+18,0.8887,0.0322
+Spectral+18,0.8859,0.0304
+All14+18,0.8885,0.0427

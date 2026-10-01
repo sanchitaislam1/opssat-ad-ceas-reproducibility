@@ -1,0 +1,5 @@
+This package is provided for research reproducibility associated with the manuscript by Sanchita Islam.
+
+The package contains study-specific code and generated result/figure files. The OPSSAT-AD benchmark dataset is not redistributed here and remains subject to its original repository/dataset terms.
+
+Unless a separate open-source license file is added, the study-specific code should be treated as all-rights-reserved by the author. For reuse or redistribution beyond scholarly inspection, contact the author.

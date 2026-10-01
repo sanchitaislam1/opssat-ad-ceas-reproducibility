@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and the OPSSAT-AD benchmark dataset."
+title: "OPSSAT-AD Final Reproducibility Package"
+authors:
+  - family-names: Islam
+    given-names: Sanchita
+version: "1.0.0"
+type: software

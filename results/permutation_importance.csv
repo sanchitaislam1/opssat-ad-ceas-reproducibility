@@ -1,0 +1,11 @@
+Feature,Importance
+len,0.179418
+n_peaks,0.172361
+smooth10_n_peaks,0.069986
+diff2_peaks,0.057929
+diff_peaks,0.028564
+smooth20_n_peaks,0.009280
+std,0.008376
+gaps_squared,0.007516
+var,0.006985
+var_div_duration,0.004153

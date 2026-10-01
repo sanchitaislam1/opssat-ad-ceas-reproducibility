@@ -1,0 +1,8 @@
+OPSSAT-AD FINAL REPRODUCIBILITY PACKAGE
+Version: 1.0.0
+Manuscript: Machine Learning for CubeSat Telemetry Anomaly Detection: A Reproducible Comparison of Handcrafted and Raw-Signal Representations on OPSSAT-AD
+Author: Sanchita Islam
+
+This archive contains study-specific code, configuration, authoritative manuscript result tables, regenerated outputs, and publication figures.
+Raw OPSSAT-AD benchmark data are intentionally excluded.
+The raw-CNN/fusion component is an explicitly disclosed clean reimplementation because the original checkpoint was not retained.
